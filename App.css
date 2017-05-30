@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+
+  background-color: Aqua;
+  height:20px;
+  padding: 150px;
+  color: dark;
+  font-size: 300%;
+  text-align: center;
+}
+
+.App-intro {
+
+  text-align: center;
+  font-size: large;
+
+}
