@@ -1,0 +1,19 @@
+.search{
+  font-family: fantasy;
+  background-color: Aqua;
+}
+
+.input{
+  font-family: sans-serif;
+  background-color: blockquote;
+}
+.head{
+  font-family: sans-serif;
+  background-color: blockquote;
+}
+container{
+  padding: 10px;
+}
+.bold-text  {
+  font-weight: bolder;
+}
